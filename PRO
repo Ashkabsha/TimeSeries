@@ -1,3 +1,4 @@
 Bi lSTM: https://github.com/Ashkabsha/TimeSeries/blob/713f67a865dfd2820d12e33b7eb58db2d276985f/bi_lstm_PRO_28.ipynb
 RNN: https://github.com/Ashkabsha/TimeSeries/blob/84e378c76d44c3ff9bec37e7e647d2ea81bf1eb0/RNN_PRO_28.ipynb
 LSTM: https://github.com/Ashkabsha/TimeSeries/blob/ed2737953a0d64798624a77e1fd9a0df87841a5e/lstm_PRO_28.ipynb
+CNN LSTM: https://github.com/Ashkabsha/TimeSeries/blob/4281931ba59975bc33615b58e701c19a565b7d6f/cnnlstm_PRO_28.ipynb
