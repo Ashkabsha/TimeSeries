@@ -1,0 +1,7 @@
+from datetime import datetime, timedelta
+x=df.loc[-1:, 'Date']
+day=x[len(x)-1]
+date_obj = datetime.strptime(day, '%Y-%m-%d')
+start_date = date_obj
+date_list = [(start_date + timedelta(days=i)).strftime('%Y-%m-%d') for i in range(f_size)]
+

@@ -1,0 +1,5 @@
+b_size = 32 # Batch Size
+epoch = 200 # Number of epochs
+train_per = 0.8 # 80% of data taken for training
+w_size = 30 # Data for consecutive 30 days are used to predict the next day's data
+f_size = 10 #open price for 10 future days
